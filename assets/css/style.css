@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url(../images/greensparkle.jpg);
+}
+
+img {
+    max-width: 250px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Quantico', sans-serif;
+    font-size: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: 	rgb(9, 67, 90, .8);
+    padding: 15px;
+}
+
+#stats {
+    font-family: 'Athiti', sans-serif;
+    font-size: 20px;
+    font-weight: bold; 
+    background-color: 	rgb(9, 67, 90, .8);    
+    line-height: 1.2;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+#instructions {
+    font-family: 'Athiti', sans-serif;
+    font-size: 20px;
+    background-color: 	rgb(9, 67, 90, .8);
+    margin: 15px;
+    padding: 5px;
+    
+}
+
+#crystal-container {
+    margin-top: 20px;
+
+}
